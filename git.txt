@@ -11,3 +11,4 @@ perintah untuk push/upload/update file baru/perubahan pada folder yang sudah ter
 2. git add . -> digunakan untuk menandakan kita akan upload semua file dan perubahan2 yang terjadi
 3. git commit -m "pesanmu" -> memberikan pesan/informasi apa yang diupload
 git push origin master -> push/upload semua file dan perubahan2 ke brach=master.
+
