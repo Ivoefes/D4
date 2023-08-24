@@ -1,0 +1,7 @@
+
+perintah untuk pertama kali upload/push ke repository
+1. git init git -> digunakan untuk menginisiasi folder tersebut
+2. git comit -a "pesanmu" -> memberikan pesan/informasi apa yang diupload
+3. git remote add origin https://github.com/Ivoefes/D4.git -> untuk memberikan repository tujuan upload
+4. git add . -> digunakan untuk menandakan kita akan upload semua file dan perubahan2 yang terjadi
+5. git push origin master -> push/upload semua file dan perubahan2 ke branch-master
